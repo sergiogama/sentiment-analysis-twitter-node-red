@@ -1,0 +1,1 @@
+# analise-sentimento-twitter-node-red
